@@ -34,19 +34,7 @@ test.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -312,8 +300,6 @@ plt.legend(["Survived","Died"])
 plt.show()
 ```
 
-
-![png](output_8_0.png)
 
 
 Missing  -1 to 0
