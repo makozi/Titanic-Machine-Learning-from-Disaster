@@ -7,7 +7,7 @@
 
 ### Predict survival on the Titanic and get familiar with ML basics
 
-Using Titanic Data Set from kaggle (https://www.kaggle.com/c/titanic/data)
+Using Titanic Data Set from kaggle (https://www.kaggle.com/c/titanic/data). The full project is at (https://makozi.github.io/Titanic-Machine-Learning-from-Disaster/)
 
 
 ```python
